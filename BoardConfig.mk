@@ -156,5 +156,4 @@ TW_INCLUDE_REPACKTOOLS := true
 # VINTF
 DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
 
-# Inherit the proprietary files
-include vendor/xiaomi/agate/BoardConfigVendor.mk
+
